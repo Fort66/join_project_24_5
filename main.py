@@ -1,5 +1,8 @@
+from class_Player import Player
+
 def main():
-    print("Hello from join-project-24-5!")
+    p = Player("Ivan", 25, 180, 75)
+    print(p)
 
 
 if __name__ == "__main__":
