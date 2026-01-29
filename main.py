@@ -8,6 +8,7 @@ def main():
     p = Player("Ivan", 25, 180, 75)
     print(p)
 
+    print()
 
 if __name__ == "__main__":
     main()
